@@ -1,0 +1,8 @@
+export const LOGINSCREEN = 'LOGINSCREEN';
+export const HOMESCREEN = 'HOMESCREEN';
+export const TABNAVIGATOR = 'TABNAVIGATOR';
+export const ENTER_PASSWORD = 'ENTER_PASSWORD';
+export const CONFIRM_OTP = 'CONFIRM_OTP';
+export const CHANGE_PHONE_NUMBER_OTP = 'CHANGE_PHONE_NUMBER_OTP';
+
+export const LIST_USER = 'LIST_USER';
